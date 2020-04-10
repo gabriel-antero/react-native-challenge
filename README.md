@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="">Sobre o desafio<a/> |
-  <a href="">Objetivos a realizar<a/> |
-  <a href="">LICENÇA<a/>
+  <a href="https://github.com/gabriel-antero/react-native-challenge/tree/master#information_source-sobre-o-desafio">Sobre o desafio<a/> |
+  <a href="https://github.com/gabriel-antero/react-native-challenge/tree/master#dart-objetivos-realizados">Objetivos a realizar<a/> |
+  <a href="https://github.com/gabriel-antero/react-native-challenge/tree/master#memo-licen%C3%A7a">LICENÇA<a/>
 </p>
 
 ## :information_source: Sobre o desafio
